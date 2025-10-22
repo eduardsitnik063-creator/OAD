@@ -11,5 +11,10 @@ public sealed class Warrior : Entity.Character
         Strength = 14;
         Intelligence = 6;
         Agility = 8;
+        Armor = 15;
+        Mobility = 60;
+        Spead = 90;
+        MainStat = this.Intelligence * 3;
+        String = "charge";
     }
 }

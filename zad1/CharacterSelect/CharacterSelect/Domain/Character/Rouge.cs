@@ -11,5 +11,10 @@ public sealed class Rogue : Entity.Character
         Strength = 9;
         Intelligence = 8;
         Agility = 15;
+        Armor = 5;
+        Mobility = 50;
+        Spead = 80;
+        MainStat = this.Intelligence * 3;
+        String = "Invisibility";
     }
 }

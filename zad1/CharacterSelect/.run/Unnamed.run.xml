@@ -1,0 +1,9 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="UwpProject" factoryName="UWP" editBeforeRun="true" activateToolWindowBeforeRun="false" singleton="false">
+    <option name="PROJECT_PATH" value="" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <method v="2">
+      <option name="Build" />
+    </method>
+  </configuration>
+</component>
